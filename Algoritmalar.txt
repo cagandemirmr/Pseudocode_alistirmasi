@@ -1,0 +1,25 @@
+1. Soru : Kullanıcıdan iki sayı alarak bu sayıları toplayan bir programın pseudo kodu
+Kullanıcıdan bir sayı al.
+Kullanıcıdan ikinci bir sayı al.
+Bu iki sayıyı topla.
+Toplam sonucu ekrana yazdır.
+
+2. Soru : 1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodu
+Boş bir liste oluştur.
+1'den 100'e kadar olan sayılar için bir döngü başlat.
+Her bir sayıyı listeye ekle.
+Listenin içindeki tüm sayıları topla.
+Toplam sonucu ekrana yazdır.
+
+3. Soru : Kullanıcıdan alınan bir sayının asal olup olmadığını bulan bir programın pseudo kodu
+Kullanıcıdan bir sayı al.
+For döngüsünde başlangıç değeri 2, bitiş değeri ise kullanıcı sayısının 1 eksiği olarak ayarla.
+Döngüde, 2'den başlayarak kullanıcı sayısına kadar her bir sayıyla kullanıcı sayısını mod al:
+Eğer herhangi bir mod sonucu 0 ise, ekrana "{kullanıcı sayısı} asal sayı değildir" yazdır.
+Eğer tüm mod işlemlerinden 0 sonucu çıkmazsa, ekrana "{kullanıcı sayısı} asal sayıdır" yazdır.
+
+Alternatif Yöntem:
+20'ye kadar olan asal sayıları içeren bir liste oluştur.
+Kullanıcıdan bir sayı al.
+Eğer kullanıcı sayısı listede varsa, ekrana "{kullanıcı sayısı} asal sayıdır" yazdır.
+Eğer kullanıcı sayısı listede yoksa, ekrana "{kullanıcı sayısı} asal sayı değildir" yazdır.
